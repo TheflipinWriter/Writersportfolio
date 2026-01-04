@@ -13,7 +13,7 @@ body {
    ENCABEZADO CON IMAGEN
 ================================ */
 header {
-  background-image: url("header.jpg"); /* asegúrate de tener esta imagen */
+  background-image: url("img/header.jpg"); /* asegúrate de tener esta imagen */
   background-size: cover;
   background-position: center;
   color: #fff;
